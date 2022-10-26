@@ -1,0 +1,7 @@
+name = "SamplerIO"
+uuid = "bca66995-4ecd-408b-bba5-fd5fcf25f571"
+authors = ["Petr Vagner <petr.vagner@wias-berlin.de> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8.2"
