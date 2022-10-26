@@ -1,5 +1,6 @@
 module SamplerIO
+using Sobol
 
-# Write your package code here.
+include("sampler.jl");       export sample
 
 end
