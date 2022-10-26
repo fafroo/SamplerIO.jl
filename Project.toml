@@ -3,5 +3,9 @@ uuid = "bca66995-4ecd-408b-bba5-fd5fcf25f571"
 authors = ["Petr Vagner <petr.vagner@wias-berlin.de> and contributors"]
 version = "0.1.0"
 
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
+
 [compat]
 julia = "1.8.2"

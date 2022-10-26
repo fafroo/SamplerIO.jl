@@ -1,5 +1,5 @@
 module SamplerIO
-using Sobol
+using Sobol, DataFrames
 
 include("sampler.jl");       export sample
 
