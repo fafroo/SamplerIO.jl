@@ -9,4 +9,5 @@ Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
 
 [compat]
 Sobol = "1"
+DataFrames = "1"
 julia = "1.8.2"
