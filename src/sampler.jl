@@ -1,7 +1,9 @@
 """
-Describe what is being done here
-"""
 
+    sample(dict)
+
+Return DataFrames with samples described by dict.
+"""
 function sample(dict::Dict; N = 0, sobolskip=true)
     # TODO input of an array -> fixed pre-selected values
     # TODO check for an invalid input such as ("Lin", 0.0, 0.0, 10)
