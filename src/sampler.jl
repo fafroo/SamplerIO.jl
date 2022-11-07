@@ -2,7 +2,7 @@
 
     sample(dict)
 
-Return DataFrames with samples described by dict.
+Return `DataFrame` with samples described by `dict`.
 """
 function sample(dict::Dict; N = 0, sobolskip=true)
     # TODO input of an array -> fixed pre-selected values
